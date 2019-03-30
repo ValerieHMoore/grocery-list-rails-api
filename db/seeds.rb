@@ -7,5 +7,5 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 25.times do
-    Item.create(name: Faker::Food.ingredient, variety: Faker::Color.color_name, quantity: Faker::Number.between(1, 10))
+    Item.create(name: Faker::Food.unique.ingredient, quantity: Faker::Measurement.volume)
 end
