@@ -5,9 +5,7 @@ Don't leave your list at home! Welcome to Grocery List, an app that helps you ke
 The Grocery List API was created using Ruby on Rails.
 
 ## Installation
-To install this app, fork and clone this repository from GitHub. CD into the grocery-list-rails-api folder and then bundle install the gems. Type "rails s" in your terminal and navigate to localhost:3001 in your browser.
-
-You will also need to have the corresponding React front end running: https://github.com/ValerieHMoore/grocery-list-react-frontend.
+To install this app, fork and clone this repository from GitHub. CD into the grocery-list-rails-api folder and then bundle install the gems. Type "rails s" in your terminal and navigate to localhost:3001 in your browser. You will also need to have the corresponding React front end running on localhost:3000. You can get that repo here: https://github.com/ValerieHMoore/grocery-list-react-frontend.
 
 ## Contributing
 Bug reports and pull requests are welcome on GitHub at https://github.com/ValerieHMoore/grocery-list-rails-api. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant (http://contributor-covenant.org) code of conduct.
