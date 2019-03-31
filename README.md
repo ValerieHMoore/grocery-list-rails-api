@@ -1,24 +1,16 @@
-# README
+# Grocery List API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Don't leave your list at home! Welcome to Grocery List, an app that helps you keep track of what you need at the supermarket.
 
-Things you may want to cover:
+The Grocery List API was created using Ruby on Rails.
 
-* Ruby version
+#Installation
+To install this app, fork and clone this repository from GitHub. CD into the grocery-list-rails-api folder and then bundle install the gems. Type "rails s" in your terminal and navigate to localhost:3001 in your browser.
 
-* System dependencies
+You will also need to have the corresponding React front end running: https://github.com/ValerieHMoore/grocery-list-react-frontend.
 
-* Configuration
+#Contributing
+Bug reports and pull requests are welcome on GitHub at https://github.com/ValerieHMoore/grocery-list-rails-api. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant (http://contributor-covenant.org) code of conduct.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#License
+The code is available as open source under the terms of the MIT License (https://opensource.org/licenses/MIT).
